@@ -28,11 +28,6 @@ def amg(n):
 
 
 
-
-
-
-
-
 n = int(input("enter a number: "))
 
 if amg(n):
