@@ -1,4 +1,5 @@
 
+#How do you create a NumPy array from a Python list?
 
 import numpy as np   #Import the NumPy library
 
