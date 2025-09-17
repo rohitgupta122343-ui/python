@@ -1,4 +1,7 @@
 
+# Write a program to compute number of characters and words in a
+# string.
+
 def check(l1,l2):
 
     for i in l1:
