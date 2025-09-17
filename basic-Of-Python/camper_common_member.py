@@ -1,6 +1,6 @@
 
-# Write a program to compute number of characters and words in a
-# string.
+# Write a program that takes two lists and returns True if they have at
+# least one common member. 
 
 def check(l1,l2):
 
