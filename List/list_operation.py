@@ -1,5 +1,5 @@
 
-import numpy as np
+
 
 list = [55, 2, 11, 7, 9, 13]
 list2 = [1]
