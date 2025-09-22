@@ -26,6 +26,6 @@ arr3D = [
 
 print("Arr3D[2][1][1]",arr3D[2][1][1])
 # arr3D[2] accesses the last row --> [7,8,9] [24,25,26] [27,28,29]
-# arr3D[2][1] accesses the ---> [24,25,26]
+# arr3D[2][1] accesses the --> [24,25,26]
 # arr3D[2][1][1] accesses the --> 25
  
