@@ -11,7 +11,7 @@ arr2D = np.array([
 ])
 
 print("arr2D[1][0]:",arr2D[1][0])  
-# arr2D[1] accesses the second row of the array: [4, 5, 6]
+# arr2D[1] accesses the second row of the array: --> [4, 5, 6]
 # arr2D[1][0] accesses the first element of that row: 4
 
 # 3D Array 
