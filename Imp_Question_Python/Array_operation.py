@@ -1,4 +1,4 @@
-# Step 1: Create an array (list) of integers
+#  Create an array (list) of integers
 arr = [10, 20, 30, 40, 50]
 print("Initial array:", arr)
 
