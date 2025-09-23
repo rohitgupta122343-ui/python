@@ -18,7 +18,7 @@ print("After deleting value 40:", arr)
 del arr[1]
 print("After deleting element at index 1:", arr)
 
-# Step 6: Traverse the array
+#  Traverse the array
 print("Traversing the array:")
 for element in arr:
     print(element)
