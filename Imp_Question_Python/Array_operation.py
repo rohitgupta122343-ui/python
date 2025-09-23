@@ -10,7 +10,7 @@ print("After inserting 60 at the end:", arr)
 arr.insert(2, 25)  # Inserts 25 at position 2
 print("After inserting 25 at index 2:", arr)
 
-# Step 4: Delete an element by value (e.g., 40)
+# : Delete an element by value (e.g., 40)
 arr.remove(40)
 print("After deleting value 40:", arr)
 
