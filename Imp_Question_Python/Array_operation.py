@@ -6,7 +6,7 @@ print("Initial array:", arr)
 arr.append(60)
 print("After inserting 60 at the end:", arr)
 
-# Step 3: Insert an element at a specific position (e.g., index 2)
+#  Insert an element at a specific position (e.g., index 2)
 arr.insert(2, 25)  # Inserts 25 at position 2
 print("After inserting 25 at index 2:", arr)
 
