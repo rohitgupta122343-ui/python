@@ -2,7 +2,7 @@
 arr = [10, 20, 30, 40, 50]
 print("Initial array:", arr)
 
-# Step 2: Insert an element at the end
+#  Insert an element at the end
 arr.append(60)
 print("After inserting 60 at the end:", arr)
 
