@@ -6,11 +6,11 @@
 str ="Here Some issues in a Numpy Python Libary"
 
 # count to a total words in a string by using len property/method  
-word_count = len(str)
+word_count =  len(str.split())
+
 
 # count to a character in string and blank space also split e.g -> hello -> 'h' , 'e' , 'l' , 'l' , 'o'
-char_count = len(str.split())
-
+char_count = len(str)
 print("Given String: ",str)
 print("Number of character: ",char_count)
 print("Number of Words: ",word_count)
