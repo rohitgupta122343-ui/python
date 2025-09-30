@@ -8,7 +8,7 @@ person = {
 print("Dict: ",person)
 
 # Dictionary Method 
-# 1 . dict.get()
+# 1 .dict.get()
 # 2. dict.keys()
 # 3. dict.values()
 # 4. dict.items()
@@ -17,7 +17,7 @@ print("Dict: ",person)
 # 7. dict.clear()
 
 
-# 1 . dict.get()
+# 1 .dict.get()
 
 print(f"get: {person.get("name")}")
 
