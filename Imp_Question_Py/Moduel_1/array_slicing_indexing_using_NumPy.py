@@ -1,6 +1,7 @@
 
+import numpy as np
 
-arr = [1,2,3,4,5]
+arr = np.array([1,2,3,4,5])
 
 print("Original  Array: ",arr)
 
@@ -14,4 +15,4 @@ print("array index -1 ",arr[-1])
 print("\nSlicing the array:")
 print("arr[1:4] =>", arr[1:4])   
 print("arr[:3] =>", arr[:3])     
-print("arr[::2] =>", arr[::2]) 
+print("arr[::2]=>",arr[::2])
