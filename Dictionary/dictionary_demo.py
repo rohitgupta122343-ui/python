@@ -4,7 +4,7 @@
 person = {
     "name" : "rohit",
     "age" : 19,
-    "city" : "mumbai"
+    "city" : "Mumbai"
 }
 
 print(person) # print all key values
