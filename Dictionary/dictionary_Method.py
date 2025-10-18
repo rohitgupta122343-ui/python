@@ -2,7 +2,7 @@
 person = {
     "name" : "rohit",
     "age" : 19,
-    "city" : "mumbai"
+    "city" : "Mumbai"
 }
 
 print("Dict: ",person)
