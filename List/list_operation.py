@@ -11,7 +11,7 @@ list.sort()                 # list = [1, 2, 2, 3, 7, 9, 11, 13, 99]
 list.sort(reverse=True)     # list = [99, 13, 11, 9, 7, 3, 2, 2, 1]
 list.reverse()              # list = [1, 2, 2, 3, 7, 9, 11, 13, 99]
 val = list.pop(1)           # removes element at index 1 (value 2)
-list.insert(0, 100)         # list = [100, 1, 2, 3, 7, 9, 11, 13, 99]
+list.insert(0, 100)         # list   =  [100, 1, 2, 3, 7, 9, 11, 13, 99]
 
 
 ans = len(list)
